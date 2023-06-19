@@ -17,6 +17,7 @@
 [<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 [<img src="https://img.shields.io/badge/dotnet-net%23239120.svg?color=5C2D91&style=for-the-badge&logo=.net&logoColor=white" alt="dotnet"/>](https://learn.microsoft.com/en-us/dotnet/)
 [<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>](https://www.python.org/) 
+[<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="dart"/>](https://dart.dev/)
 [<img alt="php" src=""/>](https://www.php.net) 
 [<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>](https://www.mongodb.com/) 
 [<img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql%20-%230064a5.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>](https://www.postgresql.org/) 
