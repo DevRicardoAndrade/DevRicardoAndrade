@@ -36,7 +36,7 @@
 [<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"/>](https://www.android.com/intl/pt-BR_br/)
 [<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>](https://ubuntu.com/download)
 [<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />](https://git-scm.com/)
-[<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="github" height="28.5"/>](https://github.com/)-->
+[<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="github" height="28.5"/>](https://github.com/) -->
 
 ## 📈 Github Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevRicardoAndrade&theme=default)
